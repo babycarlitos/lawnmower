@@ -1,0 +1,16 @@
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\ConsoleAppLawnMower.exe
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\ConsoleAppLawnMower.deps.json
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\ConsoleAppLawnMower.runtimeconfig.json
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\ConsoleAppLawnMower.dll
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\ConsoleAppLawnMower.pdb
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.dll
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\refint\ConsoleAppLawnMower.dll
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.pdb
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ConsoleAppLawnMower.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\obj\Release\net6.0\ref\ConsoleAppLawnMower.dll
+C:\Users\Carlos\source\repos\ConsoleAppLawnMower\ConsoleAppLawnMower\bin\Release\net6.0\testFile.txt
